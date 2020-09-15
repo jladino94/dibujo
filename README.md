@@ -1,2 +1,0 @@
-# dibujo
-&lt;!DOCTYPER html> &lt;html> &lt;head>   &lt;meta charset="utf-8" />   &lt;title>dibujando en canvas 2&lt;/title> &lt;/head> &lt;body>  &lt;h1>dibujo en canvas&lt;/h1>    &lt;p>cuantas lineas quiere      &lt;input type="text" id="texto_lineas"/>    &lt;input type="button" value="A darle!" id="boton"/>    &lt;/p>        &lt;canvas id="dibujito" width="300" height="300">&lt;/canvas>     &lt;p>asi queda tu dibujo &lt;/p>     &lt;script src="dibujo_eventos.js">&lt;/script> &lt;/body> &lt;/html>
